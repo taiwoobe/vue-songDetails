@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import Spinner from 'vue-spinkit'
+
+Vue.component('Spinner', Spinner)
 
 Vue.config.productionTip = false
 
