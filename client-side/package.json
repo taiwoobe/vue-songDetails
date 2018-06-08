@@ -1,7 +1,7 @@
 {
   "name": "client-side",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Full stack Vue.js and Express.js project",
   "author": "Taiwo Ibidapo-Obe <Ibidapo-Obe>",
   "private": true,
   "scripts": {
